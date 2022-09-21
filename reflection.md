@@ -1,3 +1,4 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+I think this assignment was really difficult for me as it has been a really long time since I've worked creating objects. Additionally I get really confused when there are multiple files for some reason and the VS code interface is really difficult for me to understand as well. For A3, I'm definitely going to start sooner and attend TA hours, or find a group to work in. I also think I would like some practice interacting with simple object-orientef programs, as I really did not do too much testing of the program because I just really didn't know how to. 
